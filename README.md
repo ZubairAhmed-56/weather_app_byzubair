@@ -1,4 +1,4 @@
-# 🌦️ **Weather App by Zubair**
+# 🌦️ **Weather App**
 
 A clean and responsive **Flutter Weather App** that provides **real-time weather updates** for any city in the world.  
 Built using the **OpenWeatherMap API**, this app is lightweight, fast, and ideal for learning and showcasing in your portfolio.
